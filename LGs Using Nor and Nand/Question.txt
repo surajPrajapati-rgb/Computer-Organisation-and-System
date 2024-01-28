@@ -1,0 +1,8 @@
+1. Write a verilog code and testbench to realise the following logic gates with NAND and NOR gates. 
+a) AND
+b) OR
+c) NOT
+d) XOR
+e) XNOR
+You need to upload 20 files. (5 design files with NAND gates, 5 test benches for NAND gates, 5 design files with NOR gates, 5 test benches for NOR gates) 
+Every File will have 5 marks. Total 20*5=100 marks.
